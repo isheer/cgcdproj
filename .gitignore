@@ -9,3 +9,8 @@
 
 # RStudio files
 .Rproj.user/
+
+# project data files
+Dataset.zip
+UCI\ HAR\ Dataset/
+Xt.txt
