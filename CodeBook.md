@@ -5,7 +5,6 @@ by running the run_analysis.R script.
 
 1. activity: column contains the subjects activity.  The following are valid
 activities: 
-
 ..* WALKING
 ..* WALKING_UPSTAIRS
 ..* WALKING_DOWNSTAIRS
@@ -13,13 +12,12 @@ activities:
 ..* STANDING
 ..* LAYING
 
-2. subject: subject identifier in range [1,30]
+2. subject: subject identifier in range [1:30]
 
 3. mean: computed mean for measure
 
 4. measure: study measurement.  The following measuments are included in the
 data set:
-
 ..* tBodyAcc.mean.X
 ..* tBodyAcc.mean.Y
 ..* tBodyAcc.mean.Z
