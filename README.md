@@ -30,8 +30,9 @@ Original dataset was downloaded from the following URL:
 
 2. Only data columns representing mean and std statistics were retained. 
 Specifically, columns with the following strings in the name were retained:
-..* -mean()
-..* -std()
+
+    * -mean()
+    * -std()
 
 3. Retained data was augmented with activity information from the original data set.
 
